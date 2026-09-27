@@ -1,0 +1,11 @@
+[server]
+headless = true
+address = "localhost"
+port = 5000
+maxUploadSize = 2048
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "light"

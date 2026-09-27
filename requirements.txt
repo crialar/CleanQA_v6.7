@@ -1,0 +1,12 @@
+# Streamlit 1.53.1 and 1.64.0 both exercised. This recipe retains 1.53.1.
+# Direct dependencies validated with Python 3.12.14 on Linux.
+# NumPy 1.26.4 supports Python 3.9-3.12; this recipe targets Python 3.10-3.12.
+# This does not certify a Windows portable runtime or lock transitive packages.
+# Existing portable installations do not need automatic dependency upgrades.
+numpy==1.26.4
+streamlit==1.53.1
+lxml==6.1.1
+openpyxl==3.1.5
+spylls==0.1.0
+python-docx==1.2.0
+regex==2026.9.10
